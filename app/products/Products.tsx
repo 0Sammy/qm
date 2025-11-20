@@ -192,7 +192,7 @@ const Products = () => {
                             <div className="bg-card shadow-lg hover:shadow-2xl border border-border hover:border-accent h-full overflow-hidden text-card-foreground transition-all duration-300">
                                 {/* Product header */}
                                 <div className={`bg-cover bg-no-repeat bg-center p-4 md:p-6 xl:p-8 relative overflow-hidden`} style={{ backgroundImage: `url(${product.backgroundImage})` }}>
-                                    <div className="absolute inset-0 bg-black/80" />
+                                    <div className="absolute inset-0 bg-black/70" />
 
                                     <div className="z-[2] relative flex justify-between items-start mb-4">
                                         <motion.div className="bg-white backdrop-blur p-3 text-accent" whileHover={{ scale: 1.1, rotate: 10 }} transition={{ type: 'spring', stiffness: 400, damping: 10 }}>

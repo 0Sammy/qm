@@ -260,7 +260,7 @@ export default function Sustainability() {
 
                             <div className="pt-6 border-border border-t">
                                 <p className="mb-4 text-muted-foreground leading-relaxed">
-                                    TOO Qazaqstan Marine Fuels LLP has obtained the official status of
+                                    TOO Qazaqstan Marine Fuels has obtained the official status of
                                     <span className="font-semibold"> "Oil Supplier" </span>
                                     in accordance with the Republic of Kazakhstan Law on State Regulation
                                     of Production and Circulation of Certain Types of Petroleum Products.

@@ -41,7 +41,7 @@ const faqItems: FAQItem[] = [
     ✗ Fake: Similar-looking domains with slight variations (qazaqstanmarinefuels.kz, qazaqstanmarinefuels.com, too-qmf.kz etc.)
 
     Email Address:
-    ✓ Real: contact@qmfuels.kz, sales@qmfuels.kz
+    ✓ Real: contact@qmfuels.kz, sales@qmfuels.kz etcetera
     ✗ Fake: Free email services (gmail.com, yahoo.com, mail.ru) or unofficial domains
 
     Phone Number:

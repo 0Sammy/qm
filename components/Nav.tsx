@@ -56,7 +56,7 @@ const Nav = () => {
         <main className="px-[0.5rem] sm:px-8 lg:px-[4rem] 2xl:px-[6rem] xl:px-[5rem] pt-2 pb-4">
             <section className="flex justify-between items-center">
                 <div className="flex items-center gap-x-2 md:gap-x-3 xl:gap-x-5">
-                    <p className="hidden sm:block">Tel: <span className="font-semibold">+77474196443</span></p>
+                    <p className="hidden sm:block">Tel: <span className="font-semibold">++7 747 419 64-43</span></p>
                     <hr className="hidden sm:block bg-primary w-6 md:w-8 xl:w-10 h-1" />
                     <p>Mail: <span className="font-semibold">info@qmfuels.kz</span></p>
                 </div>

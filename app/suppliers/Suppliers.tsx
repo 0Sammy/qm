@@ -220,7 +220,7 @@ export default function Suppliers() {
                                 <div className="space-y-3">
                                     <p className="text-muted-foreground leading-relaxed">
                                         <span className="font-semibold">Registered Entity:</span><br />
-                                        TOO Qazaqstan Marine Fuels LLP
+                                        TOO Qazaqstan Marine Fuels
                                     </p>
                                     <p className="text-muted-foreground leading-relaxed">
                                         <span className="font-semibold">Classification:</span><br />

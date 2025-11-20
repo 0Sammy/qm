@@ -86,7 +86,7 @@ export default function AboutSection() {
                     <div className="gap-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 text-center">
                         <div>
                             <h4 className="mb-2 font-semibold text-foreground">Company Name</h4>
-                            <p className="text-muted-foreground">TOO Qazaqstan Marine Fuels LLP</p>
+                            <p className="text-muted-foreground">TOO Qazaqstan Marine Fuels</p>
                         </div>
                         <div>
                             <h4 className="mb-2 font-semibold text-foreground">Location</h4>

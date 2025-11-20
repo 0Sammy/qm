@@ -109,7 +109,7 @@ export default function Footer() {
                   <div>
                     <p className="mb-1 font-semibold text-white text-xs">Address</p>
                     <p className="text-xs leading-relaxed">
-                      KORME Business Center 3 Dostyq Street, Office 12 Astana, Kazakhstan
+                      43, Syganak Street, Office 8, Yesil district, Astana 010000, Kazakhstan
                     </p>
                   </div>
                 </div>
@@ -130,7 +130,7 @@ export default function Footer() {
                   <Mail size={18} className="flex-shrink-0 mt-0.5 text-amber-500" />
                   <div>
                     <p className="mb-1 font-semibold text-white text-xs">Email</p>
-                    <motion.a href="mailto:contact@tooqazaqstanmarinefuels.kz" className="block hover:text-amber-500 text-xs truncate transition-colors" whileHover={{ x: 2 }}>
+                    <motion.a href="mailto:contact@qmfuels.kz" className="block hover:text-amber-500 text-xs truncate transition-colors" whileHover={{ x: 2 }}>
                       contact@qmfuels.kz
                     </motion.a>
                   </div>
@@ -147,7 +147,7 @@ export default function Footer() {
             {/* Copyright */}
             <motion.div variants={itemVariants} className="md:text-left text-center">
               <p className="text-slate-400 text-xs">
-                © {currentYear} TOO Qazaqstan Marine Fuels LLP. All rights reserved.
+                © {currentYear} TOO Qazaqstan Marine Fuels. All rights reserved.
               </p>
               <p className="mt-1 text-slate-500 text-xs">
                 Registered Oil Supplier per RoK Law
@@ -156,7 +156,7 @@ export default function Footer() {
 
             {/* Social Media Links */}
             <motion.div variants={itemVariants} className="flex items-center gap-6">
-              <motion.a href="https://wa.me/77474196443?partnertoken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjMxMjY1MDAsImlzcyI6Ikdvb2dsZSIsImlhdCI6MTc2MzEyNjIwMCwidXJsIjoiaHR0cHM6Ly93YS5tZS83NzQ3NDE5NjQ0MyJ9.RDiS8jtH59u7SLux4fYIaB5AtP8wS6VwsDQopI8gJUPJAiTXHI9yak-EIZ4PjhMddQQQUSBFdbNeXfaRs8E-hQ" target="_blank" rel="noopener noreferrer"
+              <motion.a href="https://wa.me/+7 747 419 64-43?partnertoken=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjMxMjY1MDAsImlzcyI6Ikdvb2dsZSIsImlhdCI6MTc2MzEyNjIwMCwidXJsIjoiaHR0cHM6Ly93YS5tZS83NzQ3NDE5NjQ0MyJ9.RDiS8jtH59u7SLux4fYIaB5AtP8wS6VwsDQopI8gJUPJAiTXHI9yak-EIZ4PjhMddQQQUSBFdbNeXfaRs8E-hQ" target="_blank" rel="noopener noreferrer"
                 className="hover:bg-slate-800 p-2 rounded-full text-slate-400 hover:text-amber-500 transition-colors"
                 whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.95 }} aria-label="WhatsApp">
                 <Whatsapp className="size-7 text-white" />

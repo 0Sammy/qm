@@ -55,8 +55,8 @@ export default function AboutUs() {
                         </div>
 
                         {/* Front Image */}
-                        <div className="right-0 bottom-0 z-[2] absolute shadow-2xl w-4/5 h-3/5 overflow-hidden">
-                            <Image src="/heroImg3.jpg" alt="Industrial worker" fill className="object-cover" />
+                        <div className="right-0 bottom-0 z-[2] absolute shadow-2xl w-4/5 h-[70%] overflow-hidden">
+                            <Image src="/aboutUs2.jpg" alt="Industrial worker" fill className="object-bottom object-cover" />
                         </div>
                     </motion.div>
 
