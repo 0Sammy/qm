@@ -28,7 +28,7 @@ const faqItems: FAQItem[] = [
     • Email: Official emails come from @qmfuels.kz (we do not use free email services like Gmail or Outlook)
     • Phone & Address: Call +7 747 419 6443 or visit our registered office at 43, Syganak Street, Office 8, Yesil district, Astana 010000, Kazakhstan
     • SSL Certificate: This site uses a valid HTTPS connection (look for the padlock icon in your browser)
-    • Regulatory IDs: We are registered as "Qazaqstan Marine Fuels LLP" with status as "Oil supplier" per RoK Law on State Regulation of Production and Circulation of Petroleum Products`,
+    • Regulatory IDs: We are registered as "TOO Qazaqstan Marine Fuels" with status as "Oil supplier" per RoK Law on State Regulation of Production and Circulation of Petroleum Products`,
     },
     {
         id: "security-2",
@@ -113,7 +113,7 @@ const faqItems: FAQItem[] = [
         id: "general-1",
         category: "general",
         question: "What is the company status of TOO Qazaqstan Marine Fuels?",
-        answer: `Qazaqstan Marine Fuels LLP (QMF) is a Kazakh company with the following status:
+        answer: `TOO Qazaqstan Marine Fuels (QMF) is a Kazakh company with the following status:
 
     • Official status: "Oil supplier" per RoK Law on State Regulation of Production and Circulation of Certain Types of Petroleum Products
     • Founder: Subsoil user company (76% share)

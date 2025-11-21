@@ -91,11 +91,8 @@ export default function AboutSection() {
                         <div>
                             <h4 className="mb-2 font-semibold text-foreground">Location</h4>
                             <p className="text-muted-foreground">
-                                Republic of Kazakhstan
-                                <br />
-                                Astana, 3 Dostyq street
-                                <br />
-                                KORME Business Center, Office 12
+                                43, Syganak Street, Office 8, <br />
+                                Yesil district, Astana 010000, Kazakhstan
                             </p>
                         </div>
                         <div>
