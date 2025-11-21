@@ -24,9 +24,9 @@ const faqItems: FAQItem[] = [
         question: "How can I verify this is the official TOO Qazaqstan Marine Fuels website?",
         answer: `This is the legitimate TOO Qazaqstan Marine Fuels website. Here's how to verify:
     
-    • Domain: Official domain is www.qmfuels.kz and www.tooqazaqstanmarinefuels.kz — any other domain is not ours
+    • Domain: Official domain is www.qmfuels.kz, www.tooqazaqstanmarinefuels.kz and www.qazaqstanmarine.com — any other domain is not ours
     • Email: Official emails come from @qmfuels.kz (we do not use free email services like Gmail or Outlook)
-    • Phone & Address: Call +7 (7172) 777-777 or visit our registered office at KORME business center, 3 Dostyq street, Astana, Republic of Kazakhstan, Office 12
+    • Phone & Address: Call +7 747 419 6443 or visit our registered office at 43, Syganak Street, Office 8, Yesil district, Astana 010000, Kazakhstan
     • SSL Certificate: This site uses a valid HTTPS connection (look for the padlock icon in your browser)
     • Regulatory IDs: We are registered as "Qazaqstan Marine Fuels LLP" with status as "Oil supplier" per RoK Law on State Regulation of Production and Circulation of Petroleum Products`,
     },
@@ -37,7 +37,7 @@ const faqItems: FAQItem[] = [
         answer: `OFFICIAL SITE vs FAKE SITES:
 
     Domain Name:
-    ✓ Real: www.qmfuels.kz and www.tooqazaqstanmarinefuels.kz
+    ✓ Real: www.qmfuels.kz, www.tooqazaqstanmarinefuels.kz and www.qazaqstanmarine.com
     ✗ Fake: Similar-looking domains with slight variations (qazaqstanmarinefuels.kz, qazaqstanmarinefuels.com, too-qmf.kz etc.)
 
     Email Address:
@@ -45,7 +45,7 @@ const faqItems: FAQItem[] = [
     ✗ Fake: Free email services (gmail.com, yahoo.com, mail.ru) or unofficial domains
 
     Phone Number:
-    ✓ Real: +7 (7172) 777-777 (verified in our official communications)
+    ✓ Real: +7 747 419 6443 (verified in our official communications)
     ✗ Fake: Numbers not listed on this official site
 
     SSL Certificate:
@@ -65,7 +65,7 @@ const faqItems: FAQItem[] = [
     IMMEDIATE ACTIONS:
     • Do NOT provide personal, financial, or payment information on that site
     • Report the fraudulent URL and screenshots to us at security@qmfuels.kz
-    • Contact us immediately at +7 (7172) 777-777 if you shared sensitive information
+    • Contact us immediately at +7 747 419 6443 if you shared sensitive information
     • Document the date, time, and how you found the fake site
 
     REPORT TO AUTHORITIES:
@@ -119,7 +119,7 @@ const faqItems: FAQItem[] = [
     • Founder: Subsoil user company (76% share)
     • Operations: Produce and supply marine fuels, mazut (heavy fuel oil), and process oil from parent subsoil user companies
     • Location: Astana, Republic of Kazakhstan
-    • Registered Address: KORME business center, 3 Dostyq street, Office 12`,
+    • Registered Address: 43, Syganak Street, Office 8, Yesil district, Astana 010000, Kazakhstan`,
     },
     {
         id: "general-2",
@@ -127,9 +127,9 @@ const faqItems: FAQItem[] = [
         question: "How can I contact TOO Qazaqstan Marine Fuels?",
         answer: `Please use the following official contact information:
 
-    Address: KORME business center, 3 Dostyq street, Office 12, Astana, Republic of Kazakhstan
+    Address: 43, Syganak Street, Office 8, Yesil district, Astana 010000, Kazakhstan, Astana, Republic of Kazakhstan
 
-    Phone: +7 (7172) 777-777
+    Phone: +7 747 419 6443
 
     Email:
     • General Inquiries: contact@qmfuels.kz
@@ -162,7 +162,7 @@ const securityChecks = [
     {
         icon: <CheckCircle2 className="fill-inherit size-6" />,
         title: "Official Domain",
-        description: "Verified domain: www.qmfuels.kz and www.tooqazaqstanmarinefuels.kz",
+        description: "Verified domain: www.qmfuels.kz, www.tooqazaqstanmarinefuels.kz and www.qazaqstanmarine.com",
     },
     {
         icon: <AlertCircle className="fill-inherit size-6" />,
@@ -302,7 +302,7 @@ export default function FAQs() {
                                     <span className="font-semibold text-destructive">security@qmfuels.kz</span>
                                 </li>
                                 <li>
-                                    • Call us immediately: <span className="font-semibold">+7 (7172) 777-777</span>
+                                    • Call us immediately: <span className="font-semibold">+7 747 419 6443</span>
                                 </li>
                                 <li>• Report to local law enforcement and your bank if information was compromised</li>
                             </ul>

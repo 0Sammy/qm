@@ -45,7 +45,7 @@ const Partners = () => {
             category: "Classification & Inspection",
             description: "Quality assurance and international compliance partners",
             companies: ["SGS", "Intertek", "Bureau Veritas", "Cotecna", "TÜV SÜD"],
-            logos: ["sgs.png", "Intertek.jpg", "bureau.png", "cotecna.png", "tuv.jpg"]
+            logos: ["sgs.png", "intertek.jpg", "bureau.png", "cotecna.png", "tuv.jpg"]
         },
         {
             category: "Financial Institutions",
