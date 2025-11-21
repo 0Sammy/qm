@@ -7,7 +7,7 @@ import { motion } from 'framer-motion';
 import { Card } from '@/components/ui/card';
 
 //Icons
-import { Mail, Phone, MapPin, AlertCircle } from 'lucide-react';
+import { Mail, Phone, MapPin, AlertCircle, Globe } from 'lucide-react';
 
 export default function ContactPage() {
 
@@ -73,9 +73,7 @@ export default function ContactPage() {
                                             Our Office
                                         </h3>
                                         <p className="text-muted-foreground leading-relaxed">
-                                            KORME Business Center<br />
-                                            3 Dostyq Street, Office 12<br />
-                                            Astana, Kazakhstan
+                                            43, Syganak Street, Office 8, <br /> Yesil district, Astana 010000, Kazakhstan
                                         </p>
                                     </div>
                                 </div>
@@ -87,8 +85,8 @@ export default function ContactPage() {
                                         <h3 className="mb-2 font-semibold">
                                             Phone
                                         </h3>
-                                        <Link href="tel:+77177777777"  className="text-accent hover:text-accent/80 transition-colors">
-                                            +7 (717) 777-7777
+                                        <Link href="tel:+77474196443" className="text-accent hover:text-accent/80 transition-colors">
+                                            +7 747 419 6443
                                         </Link>
                                     </div>
                                 </div>
@@ -100,9 +98,20 @@ export default function ContactPage() {
                                         <h3 className="mb-2 font-semibold">
                                             Email
                                         </h3>
-                                        <Link  href="mailto:contact@qmfuels.kz"  className="text-accent hover:text-accent/80 transition-colors">
+                                        <Link href="mailto:contact@qmfuels.kz" className="text-accent hover:text-accent/80 transition-colors">
                                             contact@qmfuels.kz
                                         </Link>
+                                    </div>
+                                </div>
+
+                                <div className="flex gap-4">
+                                    <Globe
+                                        className="flex-shrink-0 mt-1 size-6 text-accent" />
+                                    <div>
+                                        <h3 className="mb-2 font-semibold text-foreground">Google Business</h3>
+                                        <a href="https://maps.app.goo.gl/WJxNBwwccYV1FjXG6?g_st=ipc" target="_blank" rel="noopener noreferrer" className="text-accent hover:text-accent/80 transition-colors">
+                                            View on Google Business
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -171,7 +180,7 @@ export default function ContactPage() {
                         </div>
                     </Card>
                 </div>
-            </motion.div>
-        </main>
+            </motion.div >
+        </main >
     )
 }

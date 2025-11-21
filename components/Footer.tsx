@@ -57,7 +57,7 @@ export default function Footer() {
             whileInView="visible" viewport={{ once: true, margin: "-100px" }}>
             {/* Company Info */}
             <motion.div variants={itemVariants}>
-              <h3 className="mb-6 font-bold text-white text-2xl">TOO Qazaqstan</h3>
+              <h3 className="mb-6 font-bold text-white text-2xl">TOO Qazaqstan Marine Fuels</h3>
               <div className="space-y-4 text-slate-300 text-sm">
                 <p className="leading-relaxed">
                   Premium marine fuels and petroleum products engineered for global markets with MARPOL compliance.
@@ -119,8 +119,8 @@ export default function Footer() {
                   <Phone size={18} className="flex-shrink-0 mt-0.5 text-amber-500" />
                   <div>
                     <p className="mb-1 font-semibold text-white text-xs">Phone</p>
-                    <motion.a href="tel:+77177777777" className="hover:text-amber-500 text-xs transition-colors" whileHover={{ x: 2 }}>
-                      +7 (717) 777-7777
+                    <motion.a href="tel:+77474196443" className="hover:text-amber-500 text-xs transition-colors" whileHover={{ x: 2 }}>
+                      +7 747 419 6443
                     </motion.a>
                   </div>
                 </div>

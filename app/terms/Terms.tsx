@@ -180,12 +180,12 @@ export default function Terms() {
                         </p>
                         <div className="space-y-2 bg-muted/50 p-4 border border-border">
                             <p className="text-[11px] text-muted-foreground md:text-xs xl:text-sm">TOO Qazaqstan Marine Fuels</p>
-                            <p className="text-muted-foreground">KORME Business Center, 3 Dostyq Street, Office 12, Astana, Kazakhstan</p>
+                            <p className="text-muted-foreground">43, Syganak Street, Office 8, Yesil district, Astana 010000, Kazakhstan</p>
                             <p className="text-muted-foreground">
                                 Email: <a href="mailto:contact@qmfuels.kz" className="text-accent hover:text-accent/80 transition-colors">contact@qmfuels.kz</a>
                             </p>
                             <p className="text-muted-foreground">
-                                Phone: <a href="tel:+77177777777" className="text-accent hover:text-accent/80 transition-colors">+7 (717) 777-7777</a>
+                                Phone: <a href="tel:+77474196443" className="text-accent hover:text-accent/80 transition-colors">+7 747 419 6443</a>
                             </p>
                         </div>
                     </Card>
