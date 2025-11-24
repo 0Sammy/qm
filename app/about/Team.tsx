@@ -137,7 +137,7 @@ export default function Team() {
                                 {/* Card Container */}
                                 <div className="relative flex flex-col bg-card shadow-lg hover:shadow-2xl border border-border hover:border-secondary h-full overflow-hidden transition-all duration-300">
                                     {/* Image Section */}
-                                    <div className="relative bg-gradient-to-br from-slate-900 to-slate-800 h-80 overflow-hidden">
+                                    <div className="relative bg-gradient-to-br from-slate-900 to-slate-800 h-96 overflow-hidden">
                                         <motion.img src={member.image} alt={member.name} className="w-full h-full object-cover object-top"
                                             whileHover={{ scale: 1.05 }} transition={{ duration: 0.6 }} />
                                         {/* Overlay Gradient */}
